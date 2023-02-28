@@ -5,3 +5,5 @@ Unit01 - <https://github.com/abbymao543/IMLP377/blob/main/Unit01/Unit01_Crash%20
 
 Unit02 - <https://github.com/abbymao543/IMLP377/tree/main/Unit02>
 
+Unit03 - <https://github.com/abbymao543/IMLP377/blob/main/Unit03/HW4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb>
+
