@@ -9,3 +9,6 @@ Unit03 - <https://github.com/abbymao543/IMLP377/blob/main/Unit03/HW4_Categorical
 
 Unit04 - <https://github.com/abbymao543/IMLP377/blob/main/Unit04/Linear%20Regression_HW.ipynb>
 
+Unit05 - <https://github.com/abbymao543/IMLP377/tree/main/Unit05>
+
+Unit06 - <>
